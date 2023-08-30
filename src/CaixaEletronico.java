@@ -14,3 +14,6 @@ public class CaixaEletronico {
         System.out.println("Novo saldo: " + saldo);
     }
 }
+
+
+/**EXEMPLO DE CONDICIONAL SIMPLES( SOMENTE IF) E COMPOSTA (IF/ELSE) */
