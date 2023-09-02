@@ -1,0 +1,63 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "Contador",
+            "projectName": "controle-de-fluxo_9081a9c3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Alunos",
+            "request": "launch",
+            "mainClass": "Alunos",
+            "projectName": "controle-de-fluxo_9081a9c3"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "controle-de-fluxo_9081a9c3"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "CaixaEletronico",
+            "projectName": "controle-de-fluxo_9081a9c3"
+        },
+        {
+            "type": "java",
+            "name": "Carneiro",
+            "request": "launch",
+            "mainClass": "Carneiro",
+            "projectName": "controle-de-fluxo_9081a9c3"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "ResultadoEscolar",
+            "projectName": "controle-de-fluxo_9081a9c3"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedida",
+            "request": "launch",
+            "mainClass": "SistemaMedida",
+            "projectName": "controle-de-fluxo_9081a9c3"
+        }
+    ]
+}
