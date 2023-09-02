@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Telefone",
+            "request": "launch",
+            "mainClass": "Telefone",
+            "projectName": "controle-de-fluxo_9081a9c3"
+        },
+        {
+            "type": "java",
+            "name": "Mesada",
+            "request": "launch",
+            "mainClass": "Mesada",
+            "projectName": "controle-de-fluxo_9081a9c3"
+        },
+        {
+            "type": "java",
             "name": "Contador",
             "request": "launch",
             "mainClass": "Contador",
